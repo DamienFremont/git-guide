@@ -7,9 +7,7 @@ Git – The Simple Guide
 Because I always forget git commands… source here: git – the simple guide (it’s better)
  
 
- 
-![alt text](screenshots/160523003332137.svg)
- 
+  
 just a simple guide for getting started with git. no deep shit
  
 ## Setup
@@ -99,9 +97,7 @@ See only which files have changed:
 These are just a few of the possible parameters you can use.
  
 ## Replace local changes
- 
-![alt text](screenshots/160523003332532.svg)
- 
+  
 In case you did something wrong, which for sure never happens, you can replace local changes using the command
  
 this replaces the changes in your working tree with the last content in HEAD. Changes already added to the index, as well as new files, will be kept.
